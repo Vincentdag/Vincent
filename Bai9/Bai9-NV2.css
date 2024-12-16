@@ -1,0 +1,19 @@
+h1{
+	color: #880000;
+	font-family: verdana;
+}
+h2{
+	color: #FF9933;
+}
+label{
+	font-size: 20px;
+}
+input{
+	background-color: #CCFF33;
+}
+textarea{
+	background-color: #FFFF99; 
+}
+#thx{
+	color: #FF9933;
+}
